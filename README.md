@@ -41,7 +41,7 @@ In this article, I will talk about the Git Commands that you will be using often
 | git log --oneline	| View changes (briefly)
 | git diff | Show file differences that haven't been staged |
 | git diff [source branch] [target branch]	| Preview changes before merging
-| git revert commitid	| Revert commit changes
-| git config --global user.name "your_username"	| Set globally Username
-| git config --global user.email "your_email_address@example.com"	| Set globally Email id
-| git config --global --list	| Get global config
+| git revert commitid	| Revert commit changes |
+| git config --global user.name "your_username"	| Set globally Username |
+| git config --global user.email "your_email_address@example.com"	| Set globally Email id |
+| git config --global --list	| Get global config |
