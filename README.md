@@ -38,7 +38,7 @@ In this article, I will talk about the Git Commands that you will be using often
 | git remote set-url origin ssh://git@github.com/[username]/[repository-name].git	| Set a repository's origin branch to SSH
 | git log	| View changes
 | git log --summary	| View changes (detailed)
-| git log --oneline	| View changes (briefly)
+| git log --oneline	| View changes (briefly) |
 | git diff | Show file differences that haven't been staged |
 | git diff [source branch] [target branch]	| Preview changes before merging
 | git revert commitid	| Revert commit changes |
