@@ -1,5 +1,5 @@
 # Useful-Git-Commands-List
-- In this article, I will talk about the Git Commands that you will be using often when you are working with Git.
+- Git Commands that you will be using often when you are working with Git.
 
 
 | Command | Description |
@@ -56,3 +56,5 @@
 | git config --global user.name "your_username"	| Set globally Username |
 | git config --global user.email "your_email_address@example.com"	| Set globally Email id |
 | git config --global --list	| Get global config |
+
+don't forget to give a :star:. 
