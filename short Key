@@ -1,0 +1,24 @@
+
+Keyboard shortcut	Description
+Ctrl+,	Go to Options
+F11	Toggle full screen view
+Ctrl+0	Reset zoom to default text size
+Ctrl+=	Zoom in for larger text and graphics
+Ctrl+-	Zoom out for smaller text and graphics
+Ctrl+8	Decrease active pane width
+Ctrl+9	Increase active pane width
+Ctrl+Shift+I	Toggle Developer Tools
+
+
+Ctrl+N	Add a new repository
+Ctrl+O	Add a local repository
+Ctrl+Shift+O	Clone a repository from GitHub
+Ctrl+T	Show a list of your repositories
+Ctrl+P	Push the latest commits to GitHub
+Ctrl+Shift+P	Pull down the latest changes from GitHub
+Ctrl+Delete	Remove an existing repository
+Ctrl+Shift+G	View the repository on GitHub
+Ctrl+`	Open repository in your preferred command line tool
+Ctrl+Shift+F	Show the repository in Explorer
+Ctrl+Shift+A	Open the repository in your preferred editor tool
+Ctrl+I	Create an issue on GitHub
